@@ -1,0 +1,153 @@
+
+.navbar-header img {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+    margin-top: 4px;
+}
+.b-g {
+    background-image: url("mountains.jpg");
+    height: 500px;
+}
+.dark {
+    height: 100%;
+    background-color: rgba(32, 138, 224, 0.5);
+}
+.btn button {
+    background-color: transparent;
+    border: 1px solid gray;
+    color: white;
+}
+.btn {
+    color: white;
+    text-align: center;
+    padding-top: 150px;
+}
+.imgbook {
+    height: 500px;
+}
+.black {
+    background-color: rgb(22, 21, 21);
+    height: 80px;
+}
+.name {
+    margin-top: 20px;
+   
+}
+.btn-primary {
+    width: 100%;
+    margin-top: 20px;
+}
+.namee {
+    width: 200px;
+    margin-top: 20px;
+}
+.better {
+    border: 1px solid blue;
+    border-radius: 15px;
+    margin: 20px 30px;
+    width: 200px;
+    height: 150px;
+    text-align: center;
+}
+.better h2 {
+    color: blue;
+}
+.smart {
+    border: 1px solid blue;
+    border-radius: 15px;
+    margin: 20px 30px;
+    background-color: blue;
+    color: white;
+    width: 200px;
+    height: 150px;
+    text-align: center;
+}
+.wtb h1{
+color: blue
+}
+.wtb {
+    text-align: center;
+    height: 170px;
+    background-color: rgb(216, 212, 212);
+}
+.wtb p{
+    text-align: center;
+}
+.wtb hr {
+    width: 350px;
+    height: 1px;
+    background-color: grey;
+    text-align: center;
+}
+.auth h1{
+    color: blue
+    }
+    .auth {
+        text-align: center;
+        height: 200px;
+        
+    }
+    .auth p{
+        text-align: center;
+    }
+    .auth hr {
+        width: 350px;
+        height: 1px;
+        background-color: grey;
+        text-align: center;
+    }
+    .writer img {
+        height: 70px; 
+        margin-top: -40px;
+    
+    }
+    .writer {
+        border: 1px solid grey;
+        height: 250px;
+        text-align: center;
+        margin-bottom: 40px;
+    }
+    .writer h4 i {
+        text-indent: 10px;
+        color: blue;
+    }
+    .writer h5 {
+        color: grey;
+    }
+    .touch {
+        margin-top: 30px;
+        margin-left: 40px;
+    }
+    .getin {
+        height: 360px;
+        background-color: rgb(216, 212, 212); 
+    }
+    .touch p {
+        color: grey;
+    }
+    .input-group {
+        margin-left: 40px;
+        margin-top:10px;
+    }
+    .getin button {
+        width: 95%;
+        margin-left: 40px; 
+    }
+    .imglogoo {
+        height: 100px;
+        margin-top: 110px;
+        margin-left: 20px;
+    }
+    .blue {
+        height: 100px;
+        background-color: rgb(83, 83, 172);
+    }
+    .blue p{
+        color: white;
+        text-align: center;
+        padding-top: 25px;
+        padding-left: 350px;
+    }
+
+
